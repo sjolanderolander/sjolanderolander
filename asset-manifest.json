@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sjolanderolander/static/css/main.f9ecadc2.chunk.css",
+    "main.js": "/sjolanderolander/static/js/main.e8d4dd28.chunk.js",
+    "main.js.map": "/sjolanderolander/static/js/main.e8d4dd28.chunk.js.map",
+    "runtime-main.js": "/sjolanderolander/static/js/runtime-main.cb6debd1.js",
+    "runtime-main.js.map": "/sjolanderolander/static/js/runtime-main.cb6debd1.js.map",
+    "static/js/2.644dd3e2.chunk.js": "/sjolanderolander/static/js/2.644dd3e2.chunk.js",
+    "static/js/2.644dd3e2.chunk.js.map": "/sjolanderolander/static/js/2.644dd3e2.chunk.js.map",
+    "index.html": "/sjolanderolander/index.html",
+    "precache-manifest.b686c0c64dc9a1e6d70ee1c23d714b04.js": "/sjolanderolander/precache-manifest.b686c0c64dc9a1e6d70ee1c23d714b04.js",
+    "service-worker.js": "/sjolanderolander/service-worker.js",
+    "static/css/main.f9ecadc2.chunk.css.map": "/sjolanderolander/static/css/main.f9ecadc2.chunk.css.map",
+    "static/media/forlovning1.jpg": "/sjolanderolander/static/media/forlovning1.83489171.jpg",
+    "static/media/App.css": "/sjolanderolander/static/media/maxlinda5.ea7cf94b.png",
+    "static/media/inbjudan.jpg": "/sjolanderolander/static/media/inbjudan.0f2072db.jpg",
+    "static/media/inspiration.jpg": "/sjolanderolander/static/media/inspiration.9447ca28.jpg",
+    "static/media/jojjotherese.jpg": "/sjolanderolander/static/media/jojjotherese.6cda74c1.jpg",
+    "static/media/jojjotheresebarn.jpg": "/sjolanderolander/static/media/jojjotheresebarn.74f586bb.jpg",
+    "static/media/knop1.png": "/sjolanderolander/static/media/knop1.6145f8c9.png",
+    "static/media/knop2b.png": "/sjolanderolander/static/media/knop2b.77da877c.png",
+    "static/media/knop3.png": "/sjolanderolander/static/media/knop3.f485602d.png",
+    "static/media/logo.png": "/sjolanderolander/static/media/logo.3bc4f743.png",
+    "static/media/sofia.png": "/sjolanderolander/static/media/sofia.8ca34d61.png",
+    "static/media/sofiakyrka.png": "/sjolanderolander/static/media/sofiakyrka.379b8415.png",
+    "static/media/turbinhallen.png": "/sjolanderolander/static/media/turbinhallen.8a45a62a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb6debd1.js",
+    "static/js/2.644dd3e2.chunk.js",
+    "static/css/main.f9ecadc2.chunk.css",
+    "static/js/main.e8d4dd28.chunk.js"
+  ]
+}
