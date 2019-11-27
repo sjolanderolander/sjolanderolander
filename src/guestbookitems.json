@@ -1,0 +1,28 @@
+{
+	"guestbookitems": [{
+			"id": 1,
+			"message": "Så kul det ska bli!",
+			"author": "Anonym"
+		},
+		{
+			"id": 2,
+			"message": "Wow!",
+			"author": "Anonym"
+		},
+		{
+			"id": 3,
+			"message": "Wow!",
+			"author": "Anonym"
+		},
+		{
+			"id": 4,
+			"message": "Wow!",
+			"author": "Anonym"
+		},
+		{
+			"id": 5,
+			"message": "Jippie!",
+			"author": "Anonym"
+		}
+	]
+}
