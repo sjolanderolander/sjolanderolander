@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sjolanderolander/static/css/main.29bb2cfd.chunk.css",
-    "main.js": "/sjolanderolander/static/js/main.3aed58b7.chunk.js",
-    "main.js.map": "/sjolanderolander/static/js/main.3aed58b7.chunk.js.map",
+    "main.css": "/sjolanderolander/static/css/main.77179d79.chunk.css",
+    "main.js": "/sjolanderolander/static/js/main.2800d3e1.chunk.js",
+    "main.js.map": "/sjolanderolander/static/js/main.2800d3e1.chunk.js.map",
     "runtime-main.js": "/sjolanderolander/static/js/runtime-main.cb6debd1.js",
     "runtime-main.js.map": "/sjolanderolander/static/js/runtime-main.cb6debd1.js.map",
     "static/js/2.abce1441.chunk.js": "/sjolanderolander/static/js/2.abce1441.chunk.js",
     "static/js/2.abce1441.chunk.js.map": "/sjolanderolander/static/js/2.abce1441.chunk.js.map",
     "index.html": "/sjolanderolander/index.html",
-    "precache-manifest.ad034da4c406c4bcb218ff4b17c81a6f.js": "/sjolanderolander/precache-manifest.ad034da4c406c4bcb218ff4b17c81a6f.js",
+    "precache-manifest.30eb5900508e247bef553579a7664a1f.js": "/sjolanderolander/precache-manifest.30eb5900508e247bef553579a7664a1f.js",
     "service-worker.js": "/sjolanderolander/service-worker.js",
-    "static/css/main.29bb2cfd.chunk.css.map": "/sjolanderolander/static/css/main.29bb2cfd.chunk.css.map",
+    "static/css/main.77179d79.chunk.css.map": "/sjolanderolander/static/css/main.77179d79.chunk.css.map",
     "static/media/forlovning1.jpg": "/sjolanderolander/static/media/forlovning1.83489171.jpg",
     "static/media/App.css": "/sjolanderolander/static/media/maxlinda5.ea7cf94b.png",
     "static/media/inbjudan.jpg": "/sjolanderolander/static/media/inbjudan.0f2072db.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.cb6debd1.js",
     "static/js/2.abce1441.chunk.js",
-    "static/css/main.29bb2cfd.chunk.css",
-    "static/js/main.3aed58b7.chunk.js"
+    "static/css/main.77179d79.chunk.css",
+    "static/js/main.2800d3e1.chunk.js"
   ]
 }
