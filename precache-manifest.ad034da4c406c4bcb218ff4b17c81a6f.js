@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef6537d4b723db6540db05857ded8b24",
+    "revision": "a99c605973eecd689edca456d63cf35f",
     "url": "/sjolanderolander/index.html"
   },
   {
-    "revision": "966d17ca991ca0d6f168",
+    "revision": "387a4b5418aa977114f6",
     "url": "/sjolanderolander/static/css/main.29bb2cfd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sjolanderolander/static/js/2.abce1441.chunk.js"
   },
   {
-    "revision": "966d17ca991ca0d6f168",
-    "url": "/sjolanderolander/static/js/main.44c813ab.chunk.js"
+    "revision": "387a4b5418aa977114f6",
+    "url": "/sjolanderolander/static/js/main.3aed58b7.chunk.js"
   },
   {
     "revision": "d10cfc1e1a2daf115c85",
