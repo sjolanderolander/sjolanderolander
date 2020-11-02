@@ -257,7 +257,7 @@ h5 {
     }
 
     .feedLeft {
-      width: 20%;
+      min-width: 20%;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -307,20 +307,30 @@ h5 {
 .guestbook {
   min-height: 70vh;
   box-sizing: border-box;
-  display: flex;
+  /* display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-around; */
   align-items: center;
   background-color: #f9f9f9;
+  padding: 50px 0;
 }
+
+  .guestbook a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .guestbook a:hover {
+    text-decoration: underline;
+  }
 
   .guestbookFormInput {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 50%;
-    height: 70vh;
+    height: 20vh;
+    /* width: 50%; */
   }
 
     .guestbookForm {
@@ -351,7 +361,7 @@ h5 {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    width: 50%;
+    /* width: 50%; */
   }
 
   .guestbookItemContainer {
@@ -367,6 +377,11 @@ h5 {
     font-size: 14px;
     display: flex;
     justify-content: center;
+  }
+
+  .formTextarea {
+    width: 100%;
+    height: 150px;
   }
 
 
@@ -469,7 +484,7 @@ h5 {
 
   .guestbookFormInput {
     width: 100%;
-    height: 40vh;
+    height: 20vh;
     background-color: transparent;
   }
 

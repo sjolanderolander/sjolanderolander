@@ -15,9 +15,9 @@ function App() {
       <Hero />
       <Directions />
       <Slider />
-      <Trolovsknopen />
-      <Toastmasters />
       <Feed />
+      <Toastmasters />
+      <Trolovsknopen />
       <Guestbook />
       <Osa />
     </div>

@@ -7,8 +7,8 @@ const Guestbook = () => {
   return (
     <div className="guestbook">
       <div className="guestbookFormInput">
-        <h3>Lämna ett avtryck!</h3>
-        <Form />
+        <a href="mailto:sjolanderolander@gmail.com"><h3>Lämna ett avtryck här!</h3></a>
+        {/* <Form /> */}
       </div>
       <div className="guestbookItems">
         {guestbookJson.guestbookitems.map((item) => {

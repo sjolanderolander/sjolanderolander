@@ -1,28 +1,59 @@
 {
-	"guestbookitems": [{
-			"id": 1,
-			"message": "Så kul det ska bli!",
-			"author": "Anonym"
-		},
-		{
-			"id": 2,
-			"message": "Wow!",
-			"author": "Anonym"
-		},
-		{
-			"id": 3,
-			"message": "Wow!",
-			"author": "Anonym"
-		},
-		{
-			"id": 4,
-			"message": "Wow!",
-			"author": "Anonym"
-		},
-		{
-			"id": 5,
-			"message": "Jippie!",
-			"author": "Anonym"
-		}
-	]
+    "guestbookitems": [{
+            "id": 1,
+            "message": "Wow! Vilken ära!",
+            "author": "Therese"
+        },
+        {
+            "id": 2,
+            "message": "Längtar!!!!",
+            "author": "Sarah & Ola"
+        },
+        {
+            "id": 3,
+            "message": "Lyckan när öppnade inbjudan nyss! Ser så fram emot denna fantastiska händelse.",
+            "author": "Anna"
+        },
+        {
+            "id": 4,
+            "message": "Redan taggad till tusen, detta blir magiskt",
+            "author": "Petra"
+        },
+        {
+            "id": 5,
+            "message": "KAN KNAPPT VÄNTA!!!",
+            "author": "Angelica"
+        },
+        {
+            "id": 6,
+            "message": "Magiskt! Ser fram emot att fira kärleken med er!",
+            "author": "Jonas/Sara"
+        },
+        {
+            "id": 7,
+            "message": "Skjut salut!",
+            "author": "Niklas"
+        },
+        {
+            "id": 8,
+            "message": "Vi längtar så!",
+            "author": "Carro & Krille"
+        },
+        {
+            "id": 9,
+            "message": "Underbara ni. Vi ser fram emot er dag",
+            "author": "mamma Tina & pappa Peter"
+        },
+        {
+            "id": 10,
+            "message": "Vi längtar massor!",
+            "author": "NN"
+        },
+        {
+            "id": 11,
+            "message": "Ser fram emot att dela kvällen med er!!",
+            "author": "NN"
+        }
+    ]
 }
+

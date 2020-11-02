@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="hero center">
       <img src={logo} alt="logo"/>
       <div className="heroInfo">
-        <p>23 maj 2020</p>
+        <p>22 maj 2021</p>
         <p>Sofia Kyrka</p>
       </div>
     </div>

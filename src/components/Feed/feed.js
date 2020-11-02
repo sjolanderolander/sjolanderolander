@@ -5,6 +5,7 @@ const Feed = () => {
   const sofia = require('../../images/sofia.png');
   const inbjudan = require('../../images/inbjudan.jpg');
   const forlovning = require('../../images/forlovning1.jpg');
+  const covid = require('../../images/covid.jpg');
 
   return (
     <div className="feedContainer">
@@ -15,6 +16,11 @@ const Feed = () => {
         <h5>Kram Max och Linda</h5>
       </div>
       <div className="feedRight">
+        <div className="feed">
+          <div className="feedImage"><img src={covid} alt="Inspiration" /></div>
+          <h5>mars 2020</h5>
+          <p>Covid kom och vände upp och ner på världen och vi flyttade bröllopet till 22 maj 2021.</p>
+        </div>
         <div className="feed">
           <div className="feedImage"><img src={inbjudan} alt="Inspiration" /></div>
           <h5>nov 2019</h5>

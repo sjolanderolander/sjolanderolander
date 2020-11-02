@@ -12,22 +12,15 @@ export default class Form extends React.Component {
   render() {
   	return (
     	<form className="guestbookForm">
-        	<input
-          	id="test-mailing"
-          	name="feedback"
-          	onChange={this.handleChange}
-          	placeholder="Ditt meddelande"
-          	required
-          	value={this.state.feedback}
-        	/>
-          <input
-          	id="test-mailing"
-          	name="name"
-          	onChange={this.handleChange}
-          	placeholder="Namn"
-          	required
-          	value={this.state.name}
-        	/>
+			<textarea 
+				id="test-mailing"
+				name="test-mailing"
+				placeholder="Ps. Glöm inte skriva ditt namn"
+				onChange={this.handleChange}
+				name="feedback"
+				value={this.state.feedback}
+				className="formTextarea"
+			></textarea>	
       	<button value="Skicka" className="guestbookFormButton" onClick={this.handleSubmit}>Skicka</button>
         {this.state.message && <Message />}
     	</form>
@@ -49,6 +42,17 @@ export default class Form extends React.Component {
         message: true
       })
   }
+
+// 	sendEmail (event) {
+//     event.preventDefault();
+
+//     emailjs.sendForm('YOUR_SERVICE_ID', 'template_Lr5P5DgQ', e.target, 'YOUR_USER_ID')
+//       .then((result) => {
+//           console.log(result.text);
+//       }, (error) => {
+//           console.log(error.text);
+//       });
+//   }
 
   sendFeedback (templateId, variables) {
   	window.emailjs.send(
