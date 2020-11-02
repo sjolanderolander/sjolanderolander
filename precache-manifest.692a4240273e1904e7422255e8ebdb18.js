@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "492f983ac3611501881fdbe30f2414fd",
+    "revision": "9a479fabad81c47b9f7c10a82dee699f",
     "url": "/sjolanderolander/index.html"
   },
   {
-    "revision": "eb322a1a6c401b9e4041",
-    "url": "/sjolanderolander/static/css/main.16aaa23c.chunk.css"
+    "revision": "897115c9a313407efae5",
+    "url": "/sjolanderolander/static/css/main.b9e8ae37.chunk.css"
   },
   {
-    "revision": "038f201d9567118a713b",
-    "url": "/sjolanderolander/static/js/2.abce1441.chunk.js"
+    "revision": "38dc99bb672f81039de1",
+    "url": "/sjolanderolander/static/js/2.aead630e.chunk.js"
   },
   {
-    "revision": "eb322a1a6c401b9e4041",
-    "url": "/sjolanderolander/static/js/main.9b9152d6.chunk.js"
+    "revision": "897115c9a313407efae5",
+    "url": "/sjolanderolander/static/js/main.7fae185d.chunk.js"
   },
   {
     "revision": "d10cfc1e1a2daf115c85",
     "url": "/sjolanderolander/static/js/runtime-main.cb6debd1.js"
+  },
+  {
+    "revision": "19038876315afa09f098c886b905eb44",
+    "url": "/sjolanderolander/static/media/covid.19038876.jpg"
   },
   {
     "revision": "834891715c0b579615e9add17c97e37a",
